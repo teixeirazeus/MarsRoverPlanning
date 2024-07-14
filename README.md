@@ -1,4 +1,5 @@
-![banner](https://raw.githubusercontent.com/teixeirazeus/MarsRoverPlanning/master/readme_assets/Marsrover-Header.jpg)
+![banner](/readme_assets/Marsrover-Header.jpg)
+![License](/readme_assets/mit.svg)
 
 # Mars Rover Planning Problem
 This project implements a planning problem for a Mars Rover using STRIPS-style representations. The problem involves a rover on Mars that needs to perform several tasks such as collecting samples, taking photos, analyzing rocks and soil, and transmitting data. The goal is to find a sequence of actions that the rover can perform to achieve all these tasks.
